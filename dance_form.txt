@@ -1,0 +1,10 @@
+1.) Load the train.csv file.
+2.) Mapped the classes names to integers.
+3.) Load the train images and converted to array of 28,28,3.
+4.) Created a validation set.
+5.) Created 4 layered CNN model.
+6.) Trained with 10 epochs.
+7.) Achieved an accuracy of 70%.
+8.) Load the test.csv file.
+9.) Load the test images and converted to array of 28,28,3.
+10.) Achieved an test accuracy of 50%.
